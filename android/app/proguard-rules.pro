@@ -1,0 +1,3 @@
+-keep class okhttp3.** { *; }
+-keep class retrofit2.** { *; }
+-keep class org.apache.http.** { *; }

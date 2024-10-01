@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "662147871771",
+    "project_id": "jason-nappi-weather",
+    "storage_bucket": "jason-nappi-weather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662147871771:android:ee1b2fa1cab6ce4039f4be",
+        "android_client_info": {
+          "package_name": "com.example.napiweather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU0fJGgjndc2GrkMCOIt6f5v3PUzN5F6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662147871771:android:cebd1fc1688317a639f4be",
+        "android_client_info": {
+          "package_name": "com.example.nappiweatheradmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU0fJGgjndc2GrkMCOIt6f5v3PUzN5F6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662147871771:android:c032e2c93264cd9839f4be",
+        "android_client_info": {
+          "package_name": "com.nappi.nappiweather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU0fJGgjndc2GrkMCOIt6f5v3PUzN5F6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
